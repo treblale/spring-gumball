@@ -1,4 +1,3 @@
-
 version: "3"
 
 services:
@@ -7,17 +6,17 @@ services:
     volumes:
       - /tmp:/tmp
     networks:
-      - network   
+      - network
     ports:
-      - 8080    
-    restart: always     
+      - 8080
+    restart: always
   lb:
     image: eeacms/haproxy
     depends_on:
-    - gumball
+      - gumball
     ports:
-    - "80:5000"
-    - "1936:1936"
+      - "80:5000"
+      - "1936:1936"
     environment:
       BACKENDS: "gumball"
       BACKENDS_PORT: "8080"
