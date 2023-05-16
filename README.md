@@ -2,12 +2,12 @@ Lab 10 Notes </br>
 
 Screenshots Part 1 (CI) </br>
 
-These two screenshots display me creating the gradle workflow.
+These two screenshots display me creating the CI gradle workflow.
 <img width="1440" alt="lab10 1" src="https://github.com/treblale/spring-gumball/assets/88624470/cbe691ad-e1a6-44c8-a5a7-bc2c17fb4cb7"> </br>
 ![lab10 2](https://github.com/treblale/spring-gumball/assets/88624470/56c5a570-b293-4b39-a1dc-b4af0f70f6de) </br>
 
 Screenshots Part 2 (CD) </br>
-Here I create the google gke workflow. I then move over to gke and create the cmpe172 cluster. I then create the service account and give it the needed roles and permissions. I enable the api for the project. Then I import the action secrets into my github repo. Then I create a release which then builds the workload and service. Then I deploy the ingress and I am able to reach the application on the lb. </br>
+Here I create the CD google gke workflow. I then move over to gke and create the cmpe172 cluster. I then create the service account and give it the needed roles and permissions. I enable the api for the project. Then I import the action secrets into my github repo. Then I create a release which then builds the workload and service. Then I deploy the ingress and I am able to reach the application on the lb. </br>
 ![lab10 3](https://github.com/treblale/spring-gumball/assets/88624470/e80cd2a5-5069-4836-b8f4-e1241f608ed2) </br>
 ![lab10 4](https://github.com/treblale/spring-gumball/assets/88624470/063dd9bc-3200-4741-8d0f-9d180276c182) </br>
 ![lab10 5](https://github.com/treblale/spring-gumball/assets/88624470/96b193c0-324d-4ac1-96eb-c0cc785f7004) </br>
