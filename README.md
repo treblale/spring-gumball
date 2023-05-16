@@ -11,6 +11,7 @@ Here I create the google gke workflow. I then move over to gke and create the cm
 ![lab10 3](https://github.com/treblale/spring-gumball/assets/88624470/e80cd2a5-5069-4836-b8f4-e1241f608ed2) </br>
 ![lab10 4](https://github.com/treblale/spring-gumball/assets/88624470/063dd9bc-3200-4741-8d0f-9d180276c182) </br>
 ![lab10 5](https://github.com/treblale/spring-gumball/assets/88624470/96b193c0-324d-4ac1-96eb-c0cc785f7004) </br>
+![lab10 15](https://github.com/treblale/spring-gumball/assets/88624470/b9fd5dcf-1963-4c63-b53d-b15c561bde42) </br>
 ![lab10 6](https://github.com/treblale/spring-gumball/assets/88624470/ada16771-075c-49ba-ae7d-d73516046490) </br>
 ![lab10 7](https://github.com/treblale/spring-gumball/assets/88624470/fc9c4126-c61b-4618-bf47-c3094db8e97d) </br>
 ![lab10 8](https://github.com/treblale/spring-gumball/assets/88624470/826d99b0-2aee-4727-916f-74eb3ebcf10d) </br>
